@@ -1,0 +1,13 @@
+.alpaca{
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.alpaca__title{
+    margin: 25px 0;
+}
+.alpaca__title h1{
+    font-size: 72px;
+    letter-spacing: 3px;
+    color: var(--color-bg);
+}

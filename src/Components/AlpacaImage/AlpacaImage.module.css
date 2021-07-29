@@ -1,0 +1,23 @@
+.alpaca__image--eyes {
+    z-index: 6;
+}
+
+.alpaca__image--hair,.alpaca__image--accessories {
+    z-index: 5;
+}
+
+.alpaca__image--mouth{
+    z-index: 4;
+}
+
+.alpaca__image--ears, .alpaca__image--nose {
+    z-index: 3;
+}
+
+.alpaca__image--neck, .alpaca__image--leg {
+    z-index: 2;
+}
+
+.alpaca__image--background {
+    z-index: 1;
+}
